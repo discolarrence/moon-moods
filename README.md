@@ -1,12 +1,8 @@
 #   Moon Moods: A Love Story
 
-Moon Moods is a short story created in Scratch[Scratch][1]
-⋮
-[1]: https://scratch.mit.edu/ for my CS50 class.
+Moon Moods is a short story created in [Scratch](https://scratch.mit.edu/) for my CS50 class.
 
-It can be be viewed [here][1]
-⋮
-[1]: https://scratch.mit.edu/projects/524416117 or by opening .sb3 file in the Scratch desktop editor.
+It can be be viewed [here](https://scratch.mit.edu/projects/524416117) or by opening .sb3 file in the Scratch desktop editor.
 
 For best viewing:
 1. Hold ⇧ Shift and click the green flag at the top left to activate Turbo Mode.
